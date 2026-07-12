@@ -44,10 +44,9 @@ color-palette-picker/
 │   │   ├── ColorButton.jsx
 │   │   └── ColorPreview.jsx
 │   ├── App.tsx
-│   ├── App.css
 │   ├── index.css
 │   └── main.tsx
-├── package.json
+├── index.html
 └── README.md
 ```
 
