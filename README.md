@@ -51,6 +51,15 @@ color-palette-picker/
 └── README.md
 ```
 
+---
+
+
+## 🌐 Live Demo
+
+👉 [Live Demo Link](https://unbrokenlogic.github.io/color-palette-picker/)
+
+---
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
